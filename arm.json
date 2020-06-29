@@ -97,8 +97,8 @@
         "storageAccountType": "Standard_LRS",
         "publicIPAddressName": "myPublicIP",
         "publicIPAddressType": "Dynamic",
-        "vmName": "win-server1",
-        "virtualNetworkName": "app-vnet1",
+        "vmName": "win-server2",
+        "virtualNetworkName": "app-vnet2",
         "subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', variables('virtualNetworkName'), variables('subnetName'))]",
         "networkSecurityGroupName": "default-NSG"
     },

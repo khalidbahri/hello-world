@@ -21,6 +21,11 @@ Jawad Khan
 
 1. Numbered
 2. List
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
 **Bold** and _Italic_ and `Code` text
 
